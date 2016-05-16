@@ -1,1 +1,7 @@
 c:\users\informatyka1\documents\visual studio 2015\Projects\SemiPrime\SemiPrime\bin\Debug\SemiPrime.exe.config
+c:\users\informatyka1\documents\visual studio 2015\Projects\SemiPrime\SemiPrime\bin\Debug\SemiPrime.exe
+c:\users\informatyka1\documents\visual studio 2015\Projects\SemiPrime\SemiPrime\bin\Debug\SemiPrime.pdb
+c:\users\informatyka1\documents\visual studio 2015\Projects\SemiPrime\SemiPrime\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\informatyka1\documents\visual studio 2015\Projects\SemiPrime\SemiPrime\obj\Debug\SemiPrime.csprojResolveAssemblyReference.cache
+c:\users\informatyka1\documents\visual studio 2015\Projects\SemiPrime\SemiPrime\obj\Debug\SemiPrime.exe
+c:\users\informatyka1\documents\visual studio 2015\Projects\SemiPrime\SemiPrime\obj\Debug\SemiPrime.pdb

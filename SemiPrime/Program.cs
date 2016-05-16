@@ -10,6 +10,8 @@ namespace SemiPrime
     {
         static void Main(string[] args)
         {
+
+
         }
     }
 }

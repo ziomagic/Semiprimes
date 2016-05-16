@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SemiPrime
 {
-    class SemiPrimes
+    public class SemiPrimes
     {
         private int[] P;
         private int[] Q;
@@ -80,7 +80,7 @@ namespace SemiPrime
         /// </summary>
         /// <param name="c"></param>
         /// <returns>Number semiprime status</returns>
-        bool isSemiPrime(int c)
+        public bool isSemiPrime(int c)
         {
             int a = 2, b = 0;
             while (b < 3 && c != 1)
